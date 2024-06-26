@@ -1,0 +1,161 @@
+friends:
+
+- title: "CrystalRays"
+  description: "似此星辰非昨夜　为谁风露立中宵"
+  image: "/friends/images/crystalrays.webp"
+  link: "https://www.icystal.top"
+
+- title: "bokutake的小栈"
+  description: "Готовься к великой цели, А слава тебя найдёт."
+  image: "/friends/images/bokutake.webp"
+  link: "https://html.moe"
+
+- title: "犬's Blog"
+  description: "I'm very vegetable and very poor."
+  image: "/friends/images/moedog.webp"
+  link: "https://moedog.org"
+
+- title: "DIYgod"
+  description: "写代码是热爱，写到世界充满爱！"
+  image: "/friends/images/diygod.webp"
+  link: "https://diygod.me"
+
+- title: "FGHRSH"
+  description: "FGHRSH 的博客"
+  image: "/friends/images/fghrsh.webp"
+  link: "https://www.fghrsh.net"
+
+- title: "芝士部落格"
+  description: "有思想，也有忧伤和理想，芝士就是力量"
+  image: "/friends/images/chee5e.webp"
+  link: "https://blog.youmuwhisper.space/"
+
+- title: "苏卡卡的有底洞"
+  description: "童话只美在真实却从不续写"
+  image: "/friends/images/skk.webp"
+  link: "https://blog.skk.moe"
+
+- title: "Michaelis's Mindpalace"
+  description: "Welcome to my mindpalace"
+  image: "/friends/images/michaelis.webp"
+  link: "https://mindpalace.michaelis.website"
+
+- title: "Dogcraft"
+  description: "征途漫漫 唯有奋斗"
+  image: "/friends/images/dogcraft.webp"
+  link: "https://www.dogcraft.top"
+
+- title: "云海鹰影"
+  description: "我独自度过的无数个晨昏，用来交换你身边一瞬"
+  image: "/friends/images/chaoswork.webp"
+  link: "https://www.chaoswork.cn"
+
+- title: "ADD-SP's Blog"
+  description: "记录 & 分享 & 感受"
+  image: "/friends/images/addesp.webp"
+  link: "https://www.addesp.com"
+
+- title: "冰柠配绿茶的秘密后花园"
+  description: "让美好的时光常驻"
+  image: "/friends/images/frozenlemontee.webp"
+  link: "https://frozenlemontee.top"
+
+- title: "Meow"
+  description: "喵"
+  image: "/friends/images/nekopara.webp"
+  link: "https://blog.nekopara.net"
+
+- title: "穗歆小站"
+  description: "我喜欢做的事就是不写个性签名"
+  image: "/friends/images/rsesot.webp"
+  link: "https://rsesot.cn"
+
+- title: "Zeka 的记事本"
+  description: "这个人很懒，什么都没有留下"
+  image: "/friends/images/zeka.webp"
+  link: "https://flag.zeka.cloud"
+
+- title: "櫻川家::浅羽"
+  description: "肥宅快樂獸的吐槽流"
+  image: "/friends/images/asaba-sakuragawa.webp"
+  link: "https://asaba.sakuragawa.moe"
+
+- title: "Huanzの小窝"
+  description: "那是一小块凝固的时间，时间上有美丽的条纹，摸起来像浅海的泥一样柔软"
+  image: "/friends/images/huanz.webp"
+  link: "https://huanz.top"
+
+- title: "Eulaの小破站"
+  description: "我不知道将去向何方，但我已在路上"
+  image: "/friends/images/eula.webp"
+  link: "https://www.eula.club"
+
+- title: "瓠樽"
+  description: "今子有五石之瓠，何不慮以為大樽，而浮於江湖，而憂其瓠落無所容？"
+  image: "/friends/images/dylanwu.webp"
+  link: "https://blog.dylanwu.space"
+
+- title: "kirito's blog"
+  description: "被带歪也不能怨我"
+  image: "/friends/images/kirito.webp"
+  link: "https://www.kirito41dd.cn"
+
+- title: "Leoの小站"
+  description: "人若不能有所舍弃，就无法改变现状"
+  image: "/friends/images/koileo.webp"
+  link: "https://www.koileo.com"
+
+- title: "永遠の空の女王Ikaros"
+  description: "love coding, love life"
+  image: "/friends/images/lgl.webp"
+  link: "https://www.iamlgl.top"
+
+- title: "随笔园"
+  description: "月夜の中でも永遠の夜明けの夢を信じて."
+  image: "/friends/images/yateam.webp"
+  link: "https://www.yateam.cc"
+
+- title: "diffghjklのblog"
+  description: "这是一只萌新的Blog~"
+  image: "/friends/images/diffghjkl.webp"
+  link: "https://blog.dmoe.top"
+
+- title: "Hi！Imlyy"
+  description: "一只青椒的blog"
+  image: "/friends/images/lyy.webp"
+  link: "https://blog.imlyy.xyz"
+
+- title: "空之維域"
+  description: "𝕿𝖍𝖊 𝖘𝖍𝖊𝖑𝖙𝖊𝖗 𝖎𝖓 𝖙𝖍𝖊 𝖗𝖆𝖎𝖓"
+  image: "/friends/images/SSONeko.svg"
+  link: "https://www.skynicecity.com"
+
+- title: "limoの博客"
+  description: "转瞬即逝的相逢与离别，每一个瞬间，我都想要珍惜"
+  image: "/friends/images/limo.webp"
+  link: "https://alimo.top"
+
+- title: "山中阁"
+  description: "一尺深冬雪，万里长街红"
+  image: "/friends/images/jensentsts.webp"
+  link: "https://jensentsts.github.io/"
+
+- title: "梦灵神社"
+  description: "梦之神灵 零梦初醒"
+  image: "/friends/images/mkwgame.webp"
+  link: "https://www.mkwgame.com/"
+
+- title: "Empty SEKAI"
+  description: "一只游荡在无人 SEKAI 的小白葱"
+  image: "/friends/images/prprnya.webp"
+  link: "https://prpr.rip/"
+
+- title: "寒寒"
+  description: "梦想大大，技术菜菜"
+  image: "/friends/images/alikia2x.webp"
+  link: "https://blog.alikia2x.com/"
+
+- title: "叶泯希·杂七杂八的🐕窝"
+  description: "😊意义是自己赐予的"
+  image: "/friends/images/yeminxi.webp"
+  link: "https://yeminxi.github.io/"
