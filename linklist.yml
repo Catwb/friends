@@ -164,3 +164,8 @@ friends:
   description: "Little squirrel Hopping around"
   image: "/friends/images/yunyi.webp"
   link: "https://www.yunyitang.me/zh/"
+
+- title: "PiCpo的阁楼"
+  description: "Computer Science & Security Learner"
+  image: "/friends/images/picpo.webp"
+  link: "https://picpo.top/"
