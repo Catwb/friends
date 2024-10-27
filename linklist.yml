@@ -1,5 +1,9 @@
 friends:
 
+- title: "龙窝"
+  description: "随便发点啥啦ouo"
+  iamge: "/friends/images/qiyao.svg"
+
 - title: "CrystalRays"
   description: "似此星辰非昨夜　为谁风露立中宵"
   image: "/friends/images/crystalrays.webp"
